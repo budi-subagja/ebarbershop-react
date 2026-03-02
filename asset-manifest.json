@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ebarbershop-react/static/css/main.bbb4203e.css",
-    "main.js": "/ebarbershop-react/static/js/main.abd20234.js",
+    "main.js": "/ebarbershop-react/static/js/main.c1d43f0d.js",
     "static/media/coming-soon.jpg": "/ebarbershop-react/static/media/coming-soon.118db6141a6143fc6377.jpg",
     "static/media/fa-solid-900.ttf": "/ebarbershop-react/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/bg-login.png": "/ebarbershop-react/static/media/bg-login.a5ad9be47bf9a0253018.png",
@@ -19,10 +19,10 @@
     "static/media/fa-v4compatibility.woff2": "/ebarbershop-react/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/ebarbershop-react/index.html",
     "main.bbb4203e.css.map": "/ebarbershop-react/static/css/main.bbb4203e.css.map",
-    "main.abd20234.js.map": "/ebarbershop-react/static/js/main.abd20234.js.map"
+    "main.c1d43f0d.js.map": "/ebarbershop-react/static/js/main.c1d43f0d.js.map"
   },
   "entrypoints": [
     "static/css/main.bbb4203e.css",
-    "static/js/main.abd20234.js"
+    "static/js/main.c1d43f0d.js"
   ]
 }
